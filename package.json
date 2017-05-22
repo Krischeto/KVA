@@ -1,0 +1,15 @@
+{
+    "name": "KVA",
+    "title": "KVA",
+    "description": "Super Cool theme",
+    "homepage": "liutenichka.simplesite.com",
+    "version": "1.0.0",
+    "author": "Krischeto BG",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
